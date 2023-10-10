@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIInWPF", "DIInWPF\DIInWPF.csproj", "{4B8237FE-D272-46BE-8E26-AAC81CF151EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLibrary", "WpfLibrary\WpfLibrary.csproj", "{F1CD6072-9D40-4163-A3C7-8713988CD616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4B8237FE-D272-46BE-8E26-AAC81CF151EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8237FE-D272-46BE-8E26-AAC81CF151EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8237FE-D272-46BE-8E26-AAC81CF151EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CD6072-9D40-4163-A3C7-8713988CD616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CD6072-9D40-4163-A3C7-8713988CD616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CD6072-9D40-4163-A3C7-8713988CD616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CD6072-9D40-4163-A3C7-8713988CD616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
